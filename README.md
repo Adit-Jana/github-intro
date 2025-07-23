@@ -35,21 +35,21 @@
 
 
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/master/assets/java.svg"></code>
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/spring-boot.svg"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/icons8-spring-boot.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/aws-svgrepo-com.svg"></code>
 
 
-<!-- <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/Postgres.png"></code>
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/SQL.png"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/postgresql.svg"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/sql-database-generic.svg"></code>
 
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/IntelliJ.png"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jb-intellij-idea.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/vscode3-svgrepo-com.svg"></code>
 
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/Docker.png"></code>
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/Jenkins.png"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jenkins.svg"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jenkins.svg"></code>
 
-<code><img height="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/RabbitMQ.png"></code>
-<code><img height="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/Kafka.png"></code>
+<code><img height="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/rabbitmq-icon.svg"></code>
+<code><img height="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/kafka-icon.svg"></code>
 
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/NewRelic.png"></code>
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/DataDog.png"></code> -->
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/new-relic.svg"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/datadog.svg"></code>
