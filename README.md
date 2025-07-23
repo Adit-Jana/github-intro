@@ -22,18 +22,6 @@
 - ⚡ Fun fact: Sadly there isn't anything fun about me!!
 
 
-<!-- <a text="hi" href="https://github-readme-stats.vercel.app/api?username=Adit-Jana&show_icons=true&theme=dracula">
-  <img height=200 width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=Adit-Jana&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jana&layout=compact">
-  <img height=200 width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jana&layout=compact" />
-</a> -->
-
-<!-- ![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adit-Jana&show_icons=true&theme=dracula) -->
-
-<!-- ![Adit's Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jana&layout=compact) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/pin/?username=Adit-Jana&repo=github-readme-stats) -->
-
 
 <p align="left">
   <a href="https://github.com/Adit-Jana">
@@ -46,7 +34,7 @@
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn-images.himalayas.app/nb465f8n69b1ygu57ufiq7jsf9mx"></code>
-<code><img height="20" width="20" src="![alt text](image.png)"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/master/assets/skills/Java.png"></code>
 <code><img height="20" width="20" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/angular.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
