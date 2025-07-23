@@ -48,8 +48,8 @@
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jenkins.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jenkins.svg"></code>
 
-<code><img height="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/rabbitmq-icon.svg"></code>
-<code><img height="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/kafka-icon.svg"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/rabbitmq-icon.svg"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/kafka-icon.svg"></code>
 
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/new-relic.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/datadog.svg"></code>
