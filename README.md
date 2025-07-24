@@ -33,7 +33,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adit-Jana&layout=compact&langs_count=7&theme=default"/>
   </a>
 </p>
---transparent
 
 **Languages and Tools:**  
 
