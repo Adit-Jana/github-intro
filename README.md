@@ -52,5 +52,5 @@
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/kafka-icon.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/new-relic.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/datadog.svg"></code>
-<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/sonarqube.svg"></code>
+<code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/sonarqube-icon.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jira.svg"></code>
