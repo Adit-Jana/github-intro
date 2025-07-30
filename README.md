@@ -36,7 +36,6 @@
 
 **Languages and Tools:**  
 
-
 <code><img height="20" width="20" alt="java" src="https://github.com/Adit-Jana/github-intro/blob/master/assets/java.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/icons8-spring-boot.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/aws-svgrepo-com.svg"></code>
