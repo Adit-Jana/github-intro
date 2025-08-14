@@ -4,6 +4,8 @@
   <img align="left" alt="Adit Jana | Linkedin" width="20px" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/linkedin.svg" />
 </a>
 
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adit-jana" target="_blank">Follow on LinkedIn</a>
+
 <a href="https://www.hackerrank.com/profile/Adit_Jana">
   <img align="left" alt="Adit Jana | Hackerrank" width="21px" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/hackerrank.svg" />
 </a>
@@ -53,3 +55,22 @@
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/datadog.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/sonarqube-icon.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jira.svg"></code>
+
+
+<style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
