@@ -1,5 +1,25 @@
 ### Hi there, This is Adit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<head>
+<style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<head>
+
 <a href="https://www.linkedin.com/in/adit-jana/">
   <img align="left" alt="Adit Jana | Linkedin" width="20px" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/linkedin.svg" />
 </a>
