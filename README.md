@@ -4,6 +4,7 @@
   <img align="left" alt="Adit Jana | Linkedin" width="20px" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/linkedin.svg" />
 </a>
 
+
 <a href="https://www.hackerrank.com/profile/Adit_Jana">
   <img align="left" alt="Adit Jana | Hackerrank" width="21px" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/hackerrank.svg" />
 </a>
@@ -13,16 +14,14 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=Adit-Jana&style=flat&base=2660&color=green)
-
-<br />
 <br />
 
-- 🔭 I’m currently working on Java, SpringBoot & RabbitMQ ( Too mainstream right! )
-- 🌱 I’m currently learning Kafka (I know, I know it's very boring)!!!
-- 🤔 I’m diving into Docker, happy to learn togeather
-- 💬 Ask me about interesting trivias
+- 🔭 I’m currently working on Java, Spring Boot, RabbitMQ and Kafka, and AWS.
+- 🌱 I’m currently learning Kubernetes.
+- 🤔 I’m diving into computer vision, excited to learn together.
+- 💬 Ask me about interesting trivias.
 - 📫 How to reach me: [adit.jana.work@gmail.com](mailto:adit.jana.work@gmail.com)
-- 😄 Pronouns: Passionate | Driven | Ambitious | Geeky
+- 😄 Pronouns: Passionate | Driven | Ambitious | Creative
 - ⚡ Fun fact: Sadly there isn't anything fun about me!!
 
 
@@ -53,3 +52,5 @@
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/datadog.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/sonarqube-icon.svg"></code>
 <code><img height="20" width="20" src="https://github.com/Adit-Jana/github-intro/blob/dev/assets/skills/jira.svg"></code>
+
+
