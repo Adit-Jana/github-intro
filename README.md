@@ -14,8 +14,6 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=Adit-Jana&style=flat&base=2660&color=green)
-
-<br />
 <br />
 
 - 🔭 I’m currently working on Java, Spring Boot, RabbitMQ and Kafka, and AWS.
