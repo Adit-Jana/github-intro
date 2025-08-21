@@ -22,7 +22,7 @@
 - 💬 Ask me about interesting trivias.
 - 📫 How to reach me: [adit.jana.work@gmail.com](mailto:adit.jana.work@gmail.com)
 - 😄 Pronouns: Passionate | Driven | Ambitious | Creative
-- ⚡ Fun fact: Sadly there isn't anything fun about me!
+- ⚡ Fun fact: Sadly there isn't anything fun about me!!
 
 
 
